@@ -45,8 +45,63 @@ Det er viktig å etablere et klima for diskusjon slik at konflikten kan komme ti
 Det finnes også ulike konflikthåndteringsstrategier som integrasjon (problemløsning), ettergivenhet, dominans, kompromiss og unngåelse som har sine positive og negative sider. Strategiene blir også delt inn i om strategien retter seg mot enkeltpersoner i gruppen eller hele gruppen, og om strategien er en relasjon på en konflikt som allerede er blitt eller før den blir manifest. Dette er da noe som prosjektleder må ta stilling til, og som da kan være avgjørende for om uenighetene eskalerer eller ikke. 
 
 ## Håndtering av tidspress og "planleggingsfellen"
+For å forsikre at man som prosjektleder unngår å ende i fellen der feildisponering av tid og ustrukturert arbeid kan hindre god utvikling i oppgaven, er det gunstig å sette opp en tydelig timeplan for gruppen der man strukturerer jevne møter som kan benyttes som en felles statusoppdatering. 
+
+Engangsorganisasjonen refererer til begrepet planleggingsfellen som;  
+
+    «en tendens til å undervurdere tiden det tar å fullføre et prosjekt, selv når man har   en betydelig erfaring med tidligere problemer med å holde tidsplaner (...) og selv  om undervurdering av tid og kostnader vil bli straffet.» (Jacobsen, 2016) 
+
+ 
+
+Når et team er i planleggingsfasen, som er en sentral del av et prosjekt, er målet å forutse hvordan utviklingen av prosjektet vil foregå. Dette gjøres for å skape struktur på hvordan prosjektet skal utvikle seg. Ved å kun visualisere prosessen kan faktorer enkelt overses og uforventede situasjoner ikke tas hensyn til. Dermed er det sannsynlig at man faller i «Planleggingsfellen» ettersom at man ubevisst utelukker reelle faktorer som kan påvirke prosjektutviklingen. 
+
+For å forhindre denne planleggingsfellen, er kunnskap og stabilitet som prosjektleder to viktige egenskaper. Ved å reflektere over tidligere opplevelser, analysere fallgruver og å etablere forebyggende metoder som har hatt positiv innvirkning på tidligere prosjekter, kan erfaringer bidra med å få en bredere forståelse på hvordan oppnå god planlegging. Når et team får utdelt en tidsfrist, kan tidsfristen bli et slags «ekkokammer» innad i teamet. Felles fokus på fremtiden, kan skape et hastverk.  
+
+Selv om tidspress vil ha en innvirkning på gruppedeltakernes oppfatning av tidsløpet til prosjektet, vil det også være en viktig faktor i det aktive gruppearbeidet. Tidspresset skaper et felles mål og presset på gruppen bidrar til effektiv jobb mot målet. Som prosjektleder vil det være viktig å kunne gi gruppen realistiske tidsmål, men også mål som presser og motiverer gruppedeltakerne til å yte på en effektiv måte. Dette vil da gjøres ved at prosjektleder innfører realistiske, men fortsatt krevende delmål underveis.  
+
+Ved å dele opp prosjektet i mindre, tilgjengelige mål vil det være enklere å se utviklingen blant gruppen. Det vil også være rent praktisk en god indikasjon på hvor man skal prioritere ressurser underveis. 
+
+Engangsorganisasjonen tar opp at å utføre godt tidslederskap, altså det å være en prosjektleder som har kontinuerlig oppfølging på tidsdimensjonen av prosjektet, vil føre til at gruppen i seg selv vil ha høyere toleranse til å holde tidsfrister uten at det skal resultere i høyt stressnivå innad i gruppen. (Jacobsen, 2016) 
+
+Det å prioritere fokus på å holde tidsfrister, samtidig som at det ikke blir for stressende vil være en gunstig teknikk for å forhindre tidspress. For å utvikle gode delmål der gruppen føler seg trygge i deres evne til å gjennomføre, vil kommunikasjon være en viktig faktor. Gruppen deler tanker rundt målene sine, og får en felles enighet og trygghet rundt tidsfristene. Samholdet som gruppen får kan utnyttes til å jobbe for et felles mål slik at tidsfristen henholdes. 
 
 
 ## Sikring av god kommunikasjon
+For å forsikre effektiv og god kommunikasjon når man skal jobbe i team, er det nødvendig å holde en lav terskel for individene i gruppen til å komme med innspill. Engangsorganisasjonen refererer til forskning som tyder på at deltakelse har flere positive innvirkninger på planleggingens kvalitet, og for de som deltar. (Jacobsen, 2016) 
 
-## test2
+Dette kan både komme fra positive og negative interaksjoner mellom gruppemedlemmene. Prosjektlederen bør fokusere på å godta et godt samhold i teamet tidlig. Ved å skape en gruppekultur der hvert individ er bevist over egen tilstedeværelse gir det rom for diskusjon i gruppen der alle føler seg trygge til å bidra med sine sterkeste sider. Engangsorganisasjonen beskriver at normene i grupper resulterer fra forventninger man har innledende i prosjektet, samt forventninger fra hvert gruppemøte og under prosessen. Boken «To eller flere» setter fokus på å danne likeverd i gruppen, ved å dele opplevelser og erfaringer på likt plan, for å prege kommunikasjon like mye (Gjøsund & Huseby, 2023). 
+
+God gruppekommunikasjon består også av evnen til at gruppen skal være rom for konflikt og konfrontasjon.  
+
+For prosjektleder, vil å lage en felles kommunikasjonskanal der alle har tilgang til å kontakte gruppen være gunstig for å åpne for spørsmål, oppdateringer, og andre handlinger relatert til prosjektet. Ved å tidlig introdusere ideen om at gruppechatten skal brukes til gruppearbeid, og ved å heve regler rundt aktivitet og tilgjengelighet vil kanalen være en god plattform for prosjektutvikling.  
+
+Grupper består av mange forskjellige personlighetstyper. Derfor er det nødvendig å ta hensyn til ulike karakteristikker innad i gruppen. Før prosjektutviklingen er satt i gang vil det bidra positivt å samles i et møte der man tar opp felles regler for kommunikasjon. Her vil det være viktig for prosjektleder å vise forståelse for de ulike personenes komforsoner, og tilrettelegge deretter.  
+
+Ved å ta i bruk det som er drøftet ovenfor, slik at gruppemedlemmene møter hverandre på en god måte vil det sikre et miljø der det å ytre meninger, stille spørsmål og å feile aksepteres. Det er også viktig å sette fokus på krangler. Ukomfortable situasjoner vil oppstå i gruppen, og det er viktig å sette tydelige krav til hvordan intriger skal håndteres. Om gruppen har et godt miljø der alle har en relasjon, vil det være med på å minimere for eksempel personangrep, negative kommentarer og baksnakking som svekker moralen i gruppen. Konflikter skal tas opp så fort de oppstår, slik at de ikke eskalerer, og gruppen skal være bevisst på å gi konstruktiv kritikk på en profesjonell måte. 
+
+## Kontrakt
+Hensiktsmessighet og etterlevelse 
+
+Under drøftingsprosessen fokuserte vi på å få tydelig forståelse av hva slags forventninger gruppens individer gikk inn i studiet med. Vi dannet en god gruppekultur der vi hadde en felles konsensus om å ha god kommunikasjon. Vi beskrev egenskaper vi satt på i forhold til arbeid, sosialt og personlighet. Dette indikerte forventninger til gruppearbeidet. Det har dannet seg typiske rollemønstre i gruppearbeidet, men vi følger kontrakten i det å ha fokus på at man skal kjenne egne styrker og svakheter, å bidra deretter. 
+
+Så langt har vi fulgt reglene godt. Kommunikasjon på felles gruppechat skal være tydelig. Vi åpner for fleksibilitet så lenge arbeidet blir gjort til avtalt tid. Dette har fungert bra til nå, men det kan anerkjennes at dette type forhold til delmål kan føre til at gruppen mister tids- og gruppepress helt. Gruppepress vil i smal grad vil være gunstig for å holde fokus på målet, så det er viktig med struktur på avtalte møtetider og egenarbeid slik at ikke ambisjonen om å holde seg oppdatert på oppgaver forsvinner. 
+
+Svakheter og rom for forbedring  
+
+Vi har en god gruppedynamikk og har foreløpig unngått friksjoner som har gått utover gruppearbeidet. Vi har tatt høyde for forseintkomminger, og inkluderer pauser for å få pusterom. En uforutsett situasjon kan være hvordan vi skal fordele arbeid når vi får flere oppgaver på en gang. Dette fører til at noen må gå i front å ta ansvar for å fordele oppgaver slik at alt blir gjort. Her bør man ha fokus på å forebygge at mønstre danner seg der skeivfordeling av oppgaver oppstår.  
+
+Vi har noen vage formuleringer i vår kontrakt. Punktene som «Alle bidrar for å gjøre sitt beste» stiller vi ingen konkrete krav, og «det beste» kan variere for hvert individ og fra dag til dag. Dette åpner derfor for intriger med tanke på at gruppen kan reagere på lavere prestasjon, som kan oversettes til «lavere innsats».  
+
+Erfaringer og råd for fremtidig prosjektarbeid 
+
+Til fremtidige kontrakter skal vi tidlig åpne for å si hva man føler, ved å lage et komfortabelt å dele meningene sine, slik at alle kan komme med innspill for å tilpasse kontraktkrav til sine egne behov. Det vil være lurt å se tilbake på tidligere gruppearbeid og å undersøke hva som fungerte og hva som ikke fungerte, eventuelle intriger og diverse situasjoner man ikke tok høyde for. Slik kan man etablere nye punkter basert på erfaring.  
+
+Punkter vi tenker alltid skal være inkludert i en gruppekontakt er de som handler om hvordan egen atferd påvirker gruppedynamikk og gruppeprestasjon. Punkter som; 
+
+Før hvert prosjekt leveres, skal det gås nøye igjennom, vurderes og korrigere grammatikk, samt forsikre seg om at prosjektet har god struktur. 
+
+Dette er et godt punkt å ha med for å sikre god struktur på oppgaven, samt at alle parter involvert er tilfreds med arbeidet de representerer. 
+
+Forsikre seg om å holde seg oppdatert på gruppens progresjon om man havner bak eller ikke er til stede under et gruppesamarbeid. 
+
+Dette refererer til å legge inn egen innsats til å ta seg tid til gruppearbeid. Dette punktet er viktig for å forsikre at alle kan aktivt bidra til felles oppgaver. Dette bør skrives mer konkret for å forsikre at gruppen aktivt tar tak i og sjekker opp om noen skulle falle bak. 
