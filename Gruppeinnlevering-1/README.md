@@ -16,7 +16,6 @@ Når det gjelder integrasjon tar vi utgangspunkt i medlemmer som tar et sosialt 
 Når det gjelder entreprenørskap trenger vi noen til å ha et ansvar om å revidere prosjektet. En som kan stille spørsmål om produktet er i tråd med målgruppens behov, og oppfyller funksjonskrav relatert til brukeropplevelse om det skal, og om at prosjektet ikke går avsporet. Og som kan se prosjektet med konstruktiv kritikk. Med andre ord «djevelens advokat» (Jacobsen, 2016, s.33) Slik at prosjektet ikke sklir ut av fokuset/målet som i dette tilfellet er å øke innbyggerengasjement. 
 
 ## Design av det første møtet
-“Det Første Møtet”
 Når en prosjektgruppe møtes for første gang, er det ofte slik at individene i gruppen ikke har kjennskap til hverandre. Dette er en vanlig opplevelse i prosessen av å starte opp en ny gruppe. Det første møtet er et utrolig viktig tidspunkt i både teambygging, og i oppgave- og ansvarsfordeling. Derfor kan det være gunstig å ha noen konkrete ideer eller aktiviteter til å bidra med relasjonsbygging. Når møtet begynner, kan prosjektlederen snakke kort om hva prosjektet består av, hva målet er, tidsrammen, og andre viktig aspekter som er viktige detaljer og burde nevnes i startfasen av et prosjekt. Dette er for å sikre alle har en lik tankegang, og gjøre det lettere å gå videre til neste steg. 
 
 Når det fører til prosjektarbeid, møter mange opp med forskjellige erfaringer i både jobb, gruppearbeid, og kunnskap i relasjon til arbeidsprosjektet. Mens noen har vært i jobb hele livet, med god kunnskap i faget, kan andre ha lite erfaring og redusert kjennskap til temaene. For å ha en felles forståelse, kan en av de første aktivitetene på oppstartsmøtet bli at man går over hvem deltakerene er, og hva slags ulike erfaringer eller kunnskap de har med slike prosjekter før. Dette trenger ikke å være lengre enn noen få setninger, og hjelper de andre i gruppen til å lære litt om de andre personene og deres erfaringer. 
@@ -80,19 +79,19 @@ Grupper består av mange forskjellige personlighetstyper. Derfor er det nødvend
 Ved å ta i bruk det som er drøftet ovenfor, slik at gruppemedlemmene møter hverandre på en god måte vil det sikre et miljø der det å ytre meninger, stille spørsmål og å feile aksepteres. Det er også viktig å sette fokus på krangler. Ukomfortable situasjoner vil oppstå i gruppen, og det er viktig å sette tydelige krav til hvordan intriger skal håndteres. Om gruppen har et godt miljø der alle har en relasjon, vil det være med på å minimere for eksempel personangrep, negative kommentarer og baksnakking som svekker moralen i gruppen. Konflikter skal tas opp så fort de oppstår, slik at de ikke eskalerer, og gruppen skal være bevisst på å gi konstruktiv kritikk på en profesjonell måte. 
 
 ## Kontrakt
-Hensiktsmessighet og etterlevelse 
+### Hensiktsmessighet og etterlevelse 
 
 Under drøftingsprosessen fokuserte vi på å få tydelig forståelse av hva slags forventninger gruppens individer gikk inn i studiet med. Vi dannet en god gruppekultur der vi hadde en felles konsensus om å ha god kommunikasjon. Vi beskrev egenskaper vi satt på i forhold til arbeid, sosialt og personlighet. Dette indikerte forventninger til gruppearbeidet. Det har dannet seg typiske rollemønstre i gruppearbeidet, men vi følger kontrakten i det å ha fokus på at man skal kjenne egne styrker og svakheter, å bidra deretter. 
 
 Så langt har vi fulgt reglene godt. Kommunikasjon på felles gruppechat skal være tydelig. Vi åpner for fleksibilitet så lenge arbeidet blir gjort til avtalt tid. Dette har fungert bra til nå, men det kan anerkjennes at dette type forhold til delmål kan føre til at gruppen mister tids- og gruppepress helt. Gruppepress vil i smal grad vil være gunstig for å holde fokus på målet, så det er viktig med struktur på avtalte møtetider og egenarbeid slik at ikke ambisjonen om å holde seg oppdatert på oppgaver forsvinner. 
 
-Svakheter og rom for forbedring  
+### Svakheter og rom for forbedring  
 
 Vi har en god gruppedynamikk og har foreløpig unngått friksjoner som har gått utover gruppearbeidet. Vi har tatt høyde for forseintkomminger, og inkluderer pauser for å få pusterom. En uforutsett situasjon kan være hvordan vi skal fordele arbeid når vi får flere oppgaver på en gang. Dette fører til at noen må gå i front å ta ansvar for å fordele oppgaver slik at alt blir gjort. Her bør man ha fokus på å forebygge at mønstre danner seg der skeivfordeling av oppgaver oppstår.  
 
 Vi har noen vage formuleringer i vår kontrakt. Punktene som «Alle bidrar for å gjøre sitt beste» stiller vi ingen konkrete krav, og «det beste» kan variere for hvert individ og fra dag til dag. Dette åpner derfor for intriger med tanke på at gruppen kan reagere på lavere prestasjon, som kan oversettes til «lavere innsats».  
 
-Erfaringer og råd for fremtidig prosjektarbeid 
+### Erfaringer og råd for fremtidig prosjektarbeid 
 
 Til fremtidige kontrakter skal vi tidlig åpne for å si hva man føler, ved å lage et komfortabelt å dele meningene sine, slik at alle kan komme med innspill for å tilpasse kontraktkrav til sine egne behov. Det vil være lurt å se tilbake på tidligere gruppearbeid og å undersøke hva som fungerte og hva som ikke fungerte, eventuelle intriger og diverse situasjoner man ikke tok høyde for. Slik kan man etablere nye punkter basert på erfaring.  
 
@@ -105,3 +104,9 @@ Dette er et godt punkt å ha med for å sikre god struktur på oppgaven, samt at
 Forsikre seg om å holde seg oppdatert på gruppens progresjon om man havner bak eller ikke er til stede under et gruppesamarbeid. 
 
 Dette refererer til å legge inn egen innsats til å ta seg tid til gruppearbeid. Dette punktet er viktig for å forsikre at alle kan aktivt bidra til felles oppgaver. Dette bør skrives mer konkret for å forsikre at gruppen aktivt tar tak i og sjekker opp om noen skulle falle bak. 
+
+## Ressurser
+
+Gjørsund, P. & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm.
+
+Jacobsen, D. -I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget
