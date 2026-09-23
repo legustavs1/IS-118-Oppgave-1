@@ -1,4 +1,4 @@
-# IS-118-Oppgave-1 AAA
+# IS-118-Oppgave-1 
 
 ## Strategi for rekrutering og sammensetning
 ### Redegjørelse av rekruttering og sammensetning. 
