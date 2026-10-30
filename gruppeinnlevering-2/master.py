@@ -22,7 +22,7 @@ def Valg_Meny():
     print()
     print(f"{BOLD}{UNDERLINE}Konflikt 1:{RESET} Silje og Elias")
     print(f"{BOLD}{UNDERLINE}Konflikt 2:{RESET} Hamdi og Hallgeir")
-    print(f"{BOLD}{UNDERLINE}Konflikt 3:{RESET}Motivasjon i teamet")
+    print(f"{BOLD}{UNDERLINE}Konflikt 3:{RESET} Motivasjon i teamet")
     print()
     print(f"Totalt poengsum: {BOLD}{UNDERLINE}{Poeng}{RESET}")
 
@@ -65,9 +65,9 @@ print(f"""
 
 # Velkommen til spillet! Intro, bakgrunn
 print("Erling har blitt prosjektleder for utviklingen av en ny digitalmedborgerportal til kommunen. \n " \
-"Han har fått en team som består av 10 folk som har forskjellige roller, fra representanter av kommunens IT-avdeling, \n " \
-"til sikkerhetseksperter, og brukerprepresentanter. Som prosjektleder, opplever Erling at det blir konflikter mellom de forskjellige medlemmer i teamet. \n "
-f"{ITALIC}{UNDERLINE}Hva er beste løsning i de forskjellige konflikter til å ha beste resultat i prosjektet?{RESET}")
+"Han har et team bestående av 10 personer som alle har ulike roller i prosjektet, fra representanter av kommunens IT-avdeling, \n " \
+"til sikkerhetseksperter, og brukerprepresentanter. Som prosjektleder, må Erling ta ansvar og håndtere potensielle konflikter som opppstår mellom medlemmene i teamet. \n "
+f"{ITALIC}{UNDERLINE}Hvilke løsninger vil være best i de forskjellige konfliktene for å oppnå best resultat i prosjektet?{RESET}")
 print(f"{MAGENTA}------{RESET}")
 
 
@@ -79,7 +79,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
 
     Valg_Meny()
-    konflikt_valg = input("Velg Konflikt 1, 2, eller 3? ")
+    konflikt_valg = input("Velg Konflikt 1, 2, eller 3? ").lower()
     print(f"{MAGENTA}------{RESET}")
     print()
 
@@ -98,6 +98,12 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
         print()
         continue
 
+    if konflikt_valg == ("hamburger" or "fisk" or "fish"):
+        print(f"Gratulerer! Du har funnet en {BOLD}{ITALIC}{MAGENTA}SECRET ENDING!{RESET} \n"
+              "Alle fikk mat og snakket om sine problemer. Prosjektet var gjennomført i rekordtid!")
+        print()
+        exit()
+
     if konflikt_valg > "3":
         print(f"{YELLOW}Du har valgt '{konflikt_valg}'. Gjerne velg konflikt 1, 2, eller 3.{RESET}")
         print()
@@ -108,16 +114,16 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
     if konflikt_valg == "1":
         #Konflikt number 1
         print("Første konflikten er mellom Silje, som er UX-designer, og Elias, som er IT-rådgiver fra kommunen. \n " \
-        "De er uenig om prioritering rundt prioriteringer. Elias fil ha fokus på Tekniske og kostnader, mens Silje har mer fokus på brukervennlighet. ")
+        "Silje og Elias er uenig om prioritering i teknologivalg og design i prosjektet. Elias ønsker å fokusere på det tekniske og tenker på kostnader. Silje har mer fokus på brukervennlighet")
         print()
 
-        print(f"{BOLD}{ITALIC} Hva burde Erling gjør til å løse konflikten best? {RESET}")
+        print(f"{BOLD}{ITALIC} Hva bør Erling gjøre for å løse konflikten på best mulig måte, og for å redde relasjonen mellom Silje og Elias? {RESET}")
         print()
 
-        print(f"{BOLD}{UNDERLINE}Løsning 1:{RESET} Bestemme seg for at han går til individuell samtale med Silje, og med Elias.")
-        print(f"{BOLD}{UNDERLINE}Løsning 2:{RESET} Samle hele gruppen for å sette felles kriterier, og deretter samler et team med de relaterte til løsningen for å utvikle noe som passer kriteriene.")
-        print(f"{BOLD}{UNDERLINE}Løsning 3:{RESET} Velge å sette de sammen i et rom med Noa(sikkerhetsekspert) og Hallgeir(brukerrepresentant) for å forsøke å løse situasjonen ved å få innspill fra de som har mer kunnskap om hva \n"
-            "           Elias og Silje kritiserer hverandre for.")
+        print(f"{BOLD}{UNDERLINE}Løsning 1:{RESET} Bestemme seg for at han går til individuell samtale med Silje, og med Elias. Han stiller argumentene deres opp til diskusjon i et ønske om å skape aksept for hverandres ønsker.")
+        print(f"{BOLD}{UNDERLINE}Løsning 2:{RESET} Inkluderer hele teamet, han håper at gruppens felleskap kan hjelpe med å finne en løsning og komme med innspill til prosjektet og relasjonen deres.")
+        print(f"{BOLD}{UNDERLINE}Løsning 3:{RESET} Sette de sammen i et rom med Noa (sikkerhetsekspert) og Hallgeir (brukerrepresentant), for å forsøke å løse situasjonen ved å få relevante fagpersoner i forholded til prosjektet, \n"
+            "           deretter roser han Silje og Elias for deres gode arbeid, og oppfordrer dem til å snakke sammen om hendelsen.")
         print()
 
 
@@ -127,7 +133,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         if Konflikt_Løsning_1 == "1":
             print(f"{MAGENTA}------{RESET}")
-            print("De blir mer sinte på hverandre, forsterker egne meninger og blir mer rigide, og de føler seg truffet fordi de er problemet.")
+            print("De blir mer sinte på hverandre, forsterker egne meninger og blir mer rigide, og de føler seg truffet fordi de føler de er problemet.")
             print(f"{GREEN}+1 Poeng.{RESET}")
             Poeng = Poeng+1
             Konflikt_1 = True
@@ -136,7 +142,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         elif Konflikt_Løsning_1 == "2":
             print(f"{MAGENTA}------{RESET}")
-            print("Gruppen får en forståelse av hva som må gjøres for å utføre oppgaven, og kommer frem til en god hybridløsning som er et godt bidrag til hovedprosjektet.")
+            print("Gruppen får en forståelse av hva som må gjøres for å utføre oppgaven, og kommer frem til en hybridløsning som er et godt bidrag til hovedprosjektet. Silje og Elias sin konflikt får ikke nok prioritering, så etter å ha fått prosjektet på avstand blir relasjonen deres nøytral.")
             print(f"{GREEN}+2 Poeng.{RESET}")
             Poeng = Poeng+2
             Konflikt_1 = True
@@ -146,8 +152,8 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
         elif Konflikt_Løsning_1 == "3":
             print(f"{MAGENTA}------{RESET}")
             print("De får begge innspill på forslagene de kommer med, blir opplyst faktorer de ikke har tenkt på før, \n " \
-            "og begge forlater rommet med å ikke være helt fornøyde grunnet at de føler de ikke har blitt hørt for deres løsning, \n "
-            "og må endre noe de var selvsikre og stolte av.")
+            "da konflikten kommer til en slutt, og en løsning på problemet er funnet, samles Silje og Elias for å prate, og ved å få problemstillingen på avstand, blir det lettere for de å løse opp i krangelen \n "
+            "Erling sin ros hjalp dem med å føle seg forstått og validert.")
             print(f"{GREEN}+3 Poeng.{RESET}")
             Poeng = Poeng+3
             Konflikt_1 = True
@@ -156,9 +162,9 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         elif Konflikt_Løsning_1 > "3":
             print(f"{MAGENTA}------{RESET}")
-            print(f"Oi! du har valgt {RED}'{Konflikt_Løsning_1}'{RESET}, en løsning som ikke var mulig. {BOLD}{ITALIC}{RED}GAME OVER!{RESET}")
-            print (f"Din totalt poengsum var: {BOLD}{UNDERLINE}{Poeng}{RESET} \n "
-                "prosjekten desverre gjennomført ikke.")
+            print(f"Oi! Du har valgt {RED}'{Konflikt_Løsning_1}'{RESET}, en løsning som ikke var mulig. {BOLD}{ITALIC}{RED}GAME OVER!{RESET}")
+            print (f"Din totale poengsum var: {BOLD}{UNDERLINE}{Poeng}{RESET} \n "
+                "Prosjektet kunne desverre ikke gjennomføres.")
             
             print()
             exit()
@@ -167,15 +173,15 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
     elif konflikt_valg == "2":
         # So far so good! Intro til konflikt 2.
-        print("Etterpå, fant Erling ut at Hamdi og Hallgeir er uenige om hvordan deltagelsne av innbyggerne i folkemøtene skal bli utført. \n " \
-        "Som prosjektlederen, er det Erling sitt ansvar å prøve å finne hjelpe de komme seg fram til en løsning")
+        print("Erling lærte mye av konflikten mellom Silje og Elias, og ble deretter oppmerksom på at Hamdi og Hallgeir kom til uenighet om hvordan deltagelsen av innbyggerne i folkemøtene skal bli utført. \n " \
+        "Som prosjektlederen, tok Erling ansvar i å prøve å hjelpe de med å komme frem til en løsning.")
         print()
 
-        print(f"{BOLD}{ITALIC} Hva burde Erling gjør? {RESET}")
+        print(f"{BOLD}{ITALIC} Hva burde Erling gjøre? {RESET}")
         print()
 
-        print(f"{BOLD}{UNDERLINE}Løsning 1:{RESET} Gi dem tydelig påminnelse, og de to møtes for å drøfte kompromissløsning")
-        print(f"{BOLD}{UNDERLINE}Løsning 2:{RESET} Innkalle til møte der Erling deltar,for å komme frem til løsning")
+        print(f"{BOLD}{UNDERLINE}Løsning 1:{RESET} Gi dem tydelig påminnelse av tidsfristen, og oppfordre til at Hamdi og Hallgeir skal møtes for å drøfte en kompromissløsning")
+        print(f"{BOLD}{UNDERLINE}Løsning 2:{RESET} Innkalle til møte der Erling også deltar, for å komme frem til løsning med innspill fra alle parter")
         print()
 
 
@@ -186,7 +192,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
         if Konflikt_Løsning_2 == "1":
             print(f"{MAGENTA}------{RESET}")
             print("Hamdi og Hallgeir møtes på veiene av Erling sin beskjed, og etter en diskusjon som eskalerte til en krangel, kom de frem til at de måtte gi slipp på sine preferanser. \n" \
-            "Til slutt, har de brukt for lang tid, så de har kommet opp med en løsning som tar hensyn til begge parter, men som fungerer svært dårlig.")
+            "Til slutt, har de brukt for lang tid, så de har kommet opp med en løsning som tar hensyn til begge parter, men som fungerer dårlig.")
             print(f"{GREEN}+2 Poeng.{RESET}")
             Poeng = Poeng+2
             Konflikt_2 = True
@@ -195,7 +201,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         elif Konflikt_Løsning_2 == "2":
             print(f"{MAGENTA}------{RESET}")
-            print("De prater om løsninger, og kommer frem til et felles produkt som er optimalt, i god tid. ")
+            print("De prater om løsninger, og kommer frem til et felles produkt som er godt nok, og leverer akkurat innenfor tidsfristen Alle er fornøyde med resultatet. ")
             print(f"{GREEN}+4 Poeng.{RESET}")
             Poeng = Poeng+4
             Konflikt_2 = True
@@ -206,15 +212,15 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
             print(f"{MAGENTA}------{RESET}")
             print(f"Oi! du har valgt {RED}'{Konflikt_Løsning_2}'{RESET}, en  et løsning som ikke var mulig. {BOLD}{ITALIC}{RED}GAME OVER!{RESET}")
             print (f"Din totalt poengsum var: {BOLD}{UNDERLINE}{Poeng}{RESET} \n "
-                "prosjekten desverre gjennomført ikke.")
+                "Prosjektet kunne desverre ikke gjennomføres.")
             print()
             exit()
             
 
 
     elif konflikt_valg == "3":
-        # A Challenger approaches! Intro til konflikt 3.
-        print("Siste problem Erling merket var motivasjon i selvet teamet. Han satt lenge å drøftet om noen mulig løsning")
+        # A challenge approaches! Intro til konflikt 3.
+        print("Erling må nå prioritere motivasjon i selvet teamet. Han drøftet mulige løsniner")
 
         print(f"{BOLD}{ITALIC} Hvilken syns du er best? {RESET}")
         print()
@@ -231,7 +237,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         if Konflikt_Løsning_3 == "1":
             print(f"{MAGENTA}------{RESET}")
-            print("Fristene underveis i prosjektet blir holdt, men tempoet er ikke raskt nok og rammene innad i teamet blir ikke holdt.")
+            print("Fristene underveis i prosjektet blir holdt, men tempoet er ikke raskt nok og rammene innad i teamet er avslappet.")
             print(f"{GREEN}+1 Poeng.{RESET}")
             Poeng = Poeng+1
             Konflikt_3 = True
@@ -240,7 +246,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
 
         elif Konflikt_Løsning_3 == "2":
             print(f"{MAGENTA}------{RESET}")
-            print("Teamet motiveres av belønning på starten av prosjektfasen, men blir fort vandt til tanken og ser ikke på belønningen som motivasjon lenger.")
+            print("Teamet motiveres av belønning i starten av prosjektfasen, men blir fort vandt til tanken og ser ikke på belønningen som motivasjon etter en stund. På slutten av prosjektet, er det likevel en glede å samles for å spise ute.")
             print(f"{GREEN}+2 Poeng.{RESET}")
             Poeng = Poeng+2
             Konflikt_3 = True
@@ -260,7 +266,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
             print(f"{MAGENTA}------{RESET}")
             print(f"Oi! du har valgt {RED}'{Konflikt_Løsning_3}'{RESET}, en løsning som ikke var mulig. {BOLD}{ITALIC}{RED}GAME OVER!{RESET}")
             print (f"Din totalt poengsum var: {BOLD}{UNDERLINE}{Poeng}{RESET} \n "
-                "prosjekten desverre gjennomført ikke.")
+                "Prosjektet kunne desverre ikke gjennomføres.")
             print()
             exit()
             
