@@ -98,7 +98,7 @@ while True: # Repetere Valgmeny fram til alle 3 konflikter er True og gjennomfor
         print()
         continue
 
-    if konflikt_valg == ("hamburger" or "fisk" or "fish"):
+    if konflikt_valg == "hamburger" or konflikt_valg == "fisk" or konflikt_valg == "fish":
         print(f"Gratulerer! Du har funnet en {BOLD}{ITALIC}{MAGENTA}SECRET ENDING!{RESET} \n"
               "Alle fikk mat og snakket om sine problemer. Prosjektet var gjennomført i rekordtid!")
         print()
